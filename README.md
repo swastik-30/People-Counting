@@ -37,6 +37,3 @@ Python | OpenCV | YOLO | Object Tracking
 - Multiple Camera Support
 - Advanced Multi-Object Tracking
 - Remote Surveillance Dashboard
-## ⭐ Support
-
-If you find this project useful, consi
